@@ -1,0 +1,7 @@
+# NAME: AIS
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 12
+# TOTAL: 14
+payload:
+    - DOMAIN-SUFFIX,ais.usvisa-info.com
