@@ -5,3 +5,8 @@
 # TOTAL: 14
 payload:
     - DOMAIN-SUFFIX,tlscontact.com
+    - DOMAIN-SUFFIX,tlscontact.containers.piwik.pro
+    - DOMAIN-SUFFIX,tlscontact.piwik.pro
+    - DOMAIN-SUFFIX,osano.com
+    - DOMAIN-SUFFIX,unpkg.com
+    - DOMAIN-SUFFIX,datadome.co
